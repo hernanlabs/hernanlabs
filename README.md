@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image 22 mar 2026, 09_47_35 a m" src="https://github.com/user-attachments/assets/0c45f9b8-7875-448d-8e19-4d39ec0a385d" />
+
 # Hi, I'm Hernán 👋
 
 ### Building HabitOS — a personal operating system for productivity & remote work
